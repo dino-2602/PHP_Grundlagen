@@ -38,5 +38,8 @@ In der Erweiterung wird ein HTML-Formular verwendet, um Werte für die Tankfüll
 - Man sollte darauf achten, dass `$_POST`-Werte korrekt überprüft werden, um Fehlereingaben zu vermeiden.
 - Die `php.ini`-Einstellungen können je nach Serverkonfiguration variieren.
 
+## Verwendung
+´![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)`
+
 ## Lizenz
 Dieses Projekt ist für Bildungszwecke im Rahmen des ITL-Unterrichts an der Landesberufsschule Eibiswald gedacht.
