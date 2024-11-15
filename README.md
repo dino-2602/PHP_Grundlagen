@@ -22,8 +22,8 @@ Die erste Aufgabe besteht darin, die Addition und Multiplikation mehrerer Zahlen
 In der Erweiterung wird ein HTML-Formular verwendet, um Werte für die Tankfüllungen und den Literpreis einzugeben. Die Daten werden mittels der POST-Methode an ein PHP-Skript übergeben, das die Berechnung durchführt und das Ergebnis ausgibt.
 
 ### Screenshots
-- ![Eingabe]([screenshots/eingabe_formular.png](https://github.com/dino-2602/PHP_Grundlagen/blob/main/PHP_Grundlagen/screenshots/Erweiterung%20Eingabe.png))
-- ![Berechnung]([screenshots/ergebnis_anzeige.png](https://github.com/dino-2602/PHP_Grundlagen/blob/main/PHP_Grundlagen/screenshots/Erweiterung%20Berechnung.png))
+- ![Eingabe](https://github.com/dino-2602/PHP_Grundlagen/blob/main/PHP_Grundlagen/screenshots/Erweiterung%20Eingabe.png)
+- ![Berechnung](https://github.com/dino-2602/PHP_Grundlagen/blob/main/PHP_Grundlagen/screenshots/Erweiterung%20Berechnung.png)
 
 ## Installation und Ausführung
 1. **XAMPP einrichten**:
