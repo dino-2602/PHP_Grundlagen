@@ -12,6 +12,7 @@ if (is_numeric($liter1) && is_numeric($liter2) && is_numeric($preis)) {
     // Ergebnisanzeige
     echo "Die Benzinkosten betragen für " . ($liter1 + $liter2) . " Liter " . $kosten . " €";
 } else {
+    // Fehlermeldung bei ungültigen Eingaben
     echo "Bitte geben Sie gültige Zahlen ein.";
 }
 ?>

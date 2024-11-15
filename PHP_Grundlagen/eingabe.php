@@ -4,6 +4,7 @@
     <title>Dateneingabe mit POST/GET</title>
 </head>
 <body>
+    <!-- Formular zur Eingabe der Tankfüllungen und des Preises -->
     <form method="POST" action="berechnung.php">
         <label for="liter1">Tankfüllung 1 (in Litern):</label>
         <input type="text" name="liter1" id="liter1"><br><br>

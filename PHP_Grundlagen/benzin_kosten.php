@@ -6,8 +6,9 @@ $liter2 = 35.7;
 // Preis pro Liter
 $preis = 1.499;
 
-// Gesamtkosten
+// Gesamtkosten berechnen
 $kosten = ($liter1 + $liter2) * $preis;
 
 // Ergebnis ausgeben
-echo "Die Bezinkosten betragen für " . ($liter1 + $liter2) . " Liter " . $kosten . " €.";
+echo "Die Benzinkosten betragen für " . ($liter1 + $liter2) . " Liter " . $kosten . " €.";
+?>
